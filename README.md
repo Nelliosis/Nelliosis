@@ -20,7 +20,7 @@ I'm Jun. An aspiring programmer. I am currently a sophomore college student stud
 
 ### :chart_with_upwards_trend: My Stats
 [![Nelliosis' GitHub stats](https://github-readme-stats.vercel.app/api?username=Nelliosis&count_private=true&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nelliosis&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nelliosis&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :telescope: Things I'm working on at the moment
 * [Henrietta-bot](https://github.com/Nelliosis/Henrietta-bot) \
