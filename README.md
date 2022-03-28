@@ -39,6 +39,8 @@ The Blockchain is an interesting emerging technology that's caught my eye, as pe
 Making discord bots with JavaScript is, I feel, the best way to learn how to use the language properly. I hope to cascade this knowledge into Web Development as well.
 * [Server Creation and Management](https://www.youtube.com/c/NetworkChuck/videos)\
 NetworkChuck's videos on server management and creation has me interested ever since my first dip into Cloud Computing. The reality of making and maintaining your own network has been somewhat of a dream of mine. It's very interesting.
+* [Cloud Computing](https://azure.microsoft.com/en-us/overview/what-is-cloud-computing/#:~:text=Simply%20put%2C%20cloud%20computing%20is,resources%2C%20and%20economies%20of%20scale.) \
+I have a continued interest in Cloud Computing as I think this is the future of business IT operations. Though for my story of how I got into Cloud Computing, it's a bit weird. Microsoft, along with a local, national IT organization in my country hosted a competition for Microsoft Azure and 365 Certifications. The certifications would be completely free granted we pass the exam proper. The highest to score in the exams gets a prize. It was called the Cloud Skills Challenge. I placed 3rd in the Azure examinations competing with different students from my province. 
 
 ### :open_book: Things I plan to take up soon
 * [The Odin Project](https://www.theodinproject.com/) \
