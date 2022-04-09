@@ -19,8 +19,16 @@ I'm Jun. An aspiring programmer. I am currently a sophomore college student stud
 </a>
 
 ### :chart_with_upwards_trend: My Stats
-[![Nelliosis' GitHub stats](https://github-readme-stats.vercel.app/api?username=Nelliosis&count_private=true&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nelliosis&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+<table>
+   <tr>
+      <td align="center" style="padding=0;width=50%;">
+         <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=Nelliosis&count_private=true&show_icons=true&theme=react&bg_color=00000000&hide_border=true"/>
+      </td>
+      <td align="center" style="padding=0;width=50%;">
+                  <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nelliosis&layout=compact&theme=react&bg_color=00000000&hide_border=true"/>
+      </td>
+   </tr>
+</table>
 
 ### :telescope: Things I'm working on at the moment
 * [Henrietta-bot](https://github.com/Nelliosis/Henrietta-bot) \
@@ -41,7 +49,8 @@ Making discord bots with JavaScript is, I feel, the best way to learn how to use
 NetworkChuck's videos on server management and creation has me interested ever since my first dip into Cloud Computing. The reality of making and maintaining your own network has been somewhat of a dream of mine. It's very interesting.
 * [Cloud Computing](https://azure.microsoft.com/en-us/overview/what-is-cloud-computing/#:~:text=Simply%20put%2C%20cloud%20computing%20is,resources%2C%20and%20economies%20of%20scale.) \
 I have a continued interest in Cloud Computing as I think this is the future of business IT operations. Though for my story of how I got into Cloud Computing, it's a bit weird. Microsoft, along with a local, national IT organization in my country hosted a competition for Microsoft Azure and 365 Certifications. The certifications would be completely free granted we pass the exam proper. The highest to score in the exams gets a prize. It was called the Cloud Skills Challenge. I placed 3rd in the Azure examinations competing with different students from my province. 
-
+* [Open Source Society University](https://github.com/ossu/computer-science)\
+While it may be seem counter intuitive that I would want to study a parallel curriculum while in university, I think otherwise. I think it's very good to have something to compare my learning materials with. Sometimes even, the materials offered online is much better than the actual material I am given. Furthermore, it allows me to advance read on topics that might catch my interest as well. I'm very interested in what OSSU has to offer.
 ### :open_book: Things I plan to take up soon
 * [The Odin Project](https://www.theodinproject.com/) \
 I want to properly grasp web development in earnest, as I believe this is a skill critical to a 21st century person. Especially with how many aspects of human life is moving to the internet. Now more than ever, I believe is the time to learn and grasp the fundamental concepts of the web.
