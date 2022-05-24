@@ -1,5 +1,5 @@
 ### :wave: Hello there, 
-I'm Jun. An aspiring programmer. I am currently a sophomore college student studying Computer Science, with a specialization in Software Engineering. I'm currently on a journey exploring different areas to find my niche. 
+I'm Jun. An aspiring programmer. I am an undergraduate of Computer Science, with a specialization in Software Engineering. I'm currently on a journey exploring different areas to find my niche. 
 
 [![LinkedIn][linkedin-shield]][linkedin-link]
 [![Website][web-shield]][web-link]
@@ -37,30 +37,34 @@ I'm Jun. An aspiring programmer. I am currently a sophomore college student stud
 * [CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) \
 Harvard University's introduction to Computer Science. With this hopefully, I solidifed my foundations.
 
-### :telescope: Things I'm working on at the moment
+### :hammer_and_wrench: Things I am maintaining or continually improving
 * [Henrietta-bot](https://github.com/Nelliosis/Henrietta-bot) \
 Henrietta is my personal discord companion and bot. I aspire her to play music, do polls and manage scheduling events on my behalf. Her name is based from my original character of the same name.
+* [My Portfolio Website](https://nelliosis.github.io/Portfolio/) \
+As I continue to learn Web Development through [The Odin Project](https://www.theodinproject.com/), I continually update the aesthetic and performance of my portfolio.
 
-### :seedling: Things I'm studying on
+### :telescope: Things I'm working on at the moment
 * [The Odin Project](https://www.theodinproject.com/) \
 I want to properly grasp web development in earnest, as I believe this is a skill critical to a 21st century person. Especially with how many aspects of human life is moving to the internet. Now more than ever, I believe is the time to learn and grasp the fundamental concepts of the web.
+
+### :seedling: Things I'm studying on
 * [JavaScript](https://javascript.info/) \
 I'm studying JavaScript because of it's multi-use cases. I feel like this is a powerful language to add to my current repertoire of languages.
+* [The Blockchain](https://www.ibm.com/downloads/cas/36KBMBOG) \
+The Blockchain is an interesting emerging technology that's caught my eye, as people around me have been consistently, one by one, drop into this seemingly niche category. In particular, the Ethereum Blockchain with Solidity is getting my added attention.
 
 ### :open_book: Things I plan to take up soon
-* Nothing as of yet.
+* [Open Source Society University](https://github.com/ossu/computer-science)\
+While it may be seem counter intuitive, that I would want to study an open-source curriculum equivalent to a Bachelor's Degree to CS, I think it's very good to have something to compare my learning materials with. Sometimes even, the materials offered online is much better than the actual material I am given. Furthermore, it allows me to advance read on topics that might catch my interest as well. I'm very interested in what OSSU has to offer.
 
 ### :books: Things I'm interested at the moment
-* [The Blockchain](https://www.ibm.com/downloads/cas/36KBMBOG) \
-The Blockchain is an interesting emerging technology that's caught my eye, as people around me have been consistently, one by one, drop into the crypto space, the most popular implementation of the Blockchain. 
 * [Discord Bot Making with Discord.js](https://discordjs.guide/#before-you-begin) \
 Making discord bots with JavaScript is, I feel, the best way to learn how to use the language properly. I hope to cascade this knowledge into Web Development as well.
 * [Server Creation and Management](https://www.youtube.com/c/NetworkChuck/videos)\
 NetworkChuck's videos on server management and creation has me interested ever since my first dip into Cloud Computing. The reality of making and maintaining your own network has been somewhat of a dream of mine. It's very interesting.
 * [Cloud Computing](https://azure.microsoft.com/en-us/overview/what-is-cloud-computing/#:~:text=Simply%20put%2C%20cloud%20computing%20is,resources%2C%20and%20economies%20of%20scale.) \
 I have a continued interest in Cloud Computing as I think this is the future of business IT operations. Though for my story of how I got into Cloud Computing, it's a bit weird. Microsoft, along with a local, national IT organization in my country hosted a competition for Microsoft Azure and 365 Certifications. The certifications would be completely free granted we pass the exam proper. The highest to score in the exams gets a prize. It was called the Cloud Skills Challenge. I placed 3rd in the Azure examinations competing with different students from my province. 
-* [Open Source Society University](https://github.com/ossu/computer-science)\
-While it may be seem counter intuitive that I would want to study a parallel curriculum while in university, I think otherwise. I think it's very good to have something to compare my learning materials with. Sometimes even, the materials offered online is much better than the actual material I am given. Furthermore, it allows me to advance read on topics that might catch my interest as well. I'm very interested in what OSSU has to offer.
+
 
 
 ### :bow: Special thanks to the following resources
