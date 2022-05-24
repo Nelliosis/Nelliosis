@@ -17,6 +17,9 @@ I'm Jun. An aspiring programmer. I am currently a sophomore college student stud
 <a href="https://nelliosis.github.io/Portfolio/src/VEP.png">
    <img src="https://github.com/Nelliosis/Portfolio/blob/main/src/ENG-VEP.png" width="150" height="150"  href="https://nelliosis.github.io/Portfolio/src/Azure%20Fundamentals.png" />
 </a>
+<a href="https://nelliosis.github.io/Portfolio/src/CS50x.png">
+   <img src="https://github.com/Nelliosis/Portfolio/blob/main/src/CS50.png?raw=true" width="150" height="150"  href="https://nelliosis.github.io/Portfolio/src/Azure%20Fundamentals.png" />
+</a>
 
 ### :chart_with_upwards_trend: My Stats
 <table>
