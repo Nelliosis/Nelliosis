@@ -1,25 +1,9 @@
-### :wave: Hello there, 
-I'm Jun. An aspiring programmer. I am an undergraduate of Computer Science, with a specialization in Software Engineering. I'm currently on a journey exploring different areas to find my niche. 
+### :wave: Greetings, 
+I'm Jun. An undergraduate of Computer Science, and a Junior Software Developer in Training at AMAGI Technologies. I'm interested in making lives easier through code and efficient systems. I am an aspiring developer. I am currently learning and soaking in the technologies relevant towards this goal. My hobbies include lots of YouTube, occasional gaming, deep conversations, and reading about different philosophies. As for my work ethic, it changes over the years but I think I've settled for one that encapsulates my philosophy in work and in life: Palma non Sine Pulvere. Dare to try, there is no reward without effort. 
 
 [![LinkedIn][linkedin-shield]][linkedin-link]
 [![Website][web-shield]][web-link]
-
-### :medal_sports: My certificates
-<a href="https://nelliosis.github.io/Portfolio/src/Azure%20Fundamentals.png">
-   <img src="https://github.com/Nelliosis/Portfolio/blob/main/src/AZ900.png" width="150" height="150"  href="https://nelliosis.github.io/Portfolio/src/Azure%20Fundamentals.png" />
-</a>
-<a href="https://nelliosis.github.io/Portfolio/src/365%20Fundamentals.png">
-   <img src="https://github.com/Nelliosis/Portfolio/blob/main/src/MS900.png" width="150" height="150"  href="https://nelliosis.github.io/Portfolio/src/Azure%20Fundamentals.png" />
-</a>
-<a href="https://nelliosis.github.io/Portfolio/src/MTA-Certificate.png">
-   <img src="https://github.com/Nelliosis/Portfolio/blob/main/src/MTA.png" width="150" height="150"  href="https://nelliosis.github.io/Portfolio/src/Azure%20Fundamentals.png" />
-</a>
-<a href="https://nelliosis.github.io/Portfolio/src/VEP.png">
-   <img src="https://github.com/Nelliosis/Portfolio/blob/main/src/ENG-VEP.png" width="150" height="150"  href="https://nelliosis.github.io/Portfolio/src/Azure%20Fundamentals.png" />
-</a>
-<a href="https://nelliosis.github.io/Portfolio/src/CS50x.png">
-   <img src="https://github.com/Nelliosis/Portfolio/blob/main/src/CS50.png?raw=true" width="150" height="150"  href="https://nelliosis.github.io/Portfolio/src/Azure%20Fundamentals.png" />
-</a>
+[![Website][amagi-shield]][amagi-link]
 
 ### :chart_with_upwards_trend: My Stats
 <table>
@@ -44,8 +28,7 @@ Henrietta is my personal discord companion and bot. I aspire her to play music, 
 As I continue to learn Web Development through [The Odin Project](https://www.theodinproject.com/), I continually update the aesthetic and performance of my portfolio.
 
 ### :telescope: Things I'm working on at the moment
-* [The Odin Project](https://www.theodinproject.com/) \
-I want to properly grasp web development in earnest, as I believe this is a skill critical to a 21st century person. Especially with how many aspects of human life is moving to the internet. Now more than ever, I believe is the time to learn and grasp the fundamental concepts of the web.
+* Training at AMAGI.
 
 ### :seedling: Things I'm studying on
 * [JavaScript](https://javascript.info/) \
@@ -56,6 +39,8 @@ The Blockchain is an interesting emerging technology that's caught my eye, as pe
 ### :open_book: Things I plan to take up soon
 * [Open Source Society University](https://github.com/ossu/computer-science)\
 While it may be seem counter intuitive, that I would want to study an open-source curriculum equivalent to a Bachelor's Degree to CS, I think it's very good to have something to compare my learning materials with. Sometimes even, the materials offered online is much better than the actual material I am given. Furthermore, it allows me to advance read on topics that might catch my interest as well. I'm very interested in what OSSU has to offer.
+* [The Odin Project](https://www.theodinproject.com/) \
+I want to properly grasp web development in earnest, as I believe this is a skill critical to a 21st century person. Especially with how many aspects of human life is moving to the internet. Now more than ever, I believe is the time to learn and grasp the fundamental concepts of the web.
 
 ### :books: Things I'm interested at the moment
 * [Discord Bot Making with Discord.js](https://discordjs.guide/#before-you-begin) \
@@ -65,6 +50,22 @@ NetworkChuck's videos on server management and creation has me interested ever s
 * [Cloud Computing](https://azure.microsoft.com/en-us/overview/what-is-cloud-computing/#:~:text=Simply%20put%2C%20cloud%20computing%20is,resources%2C%20and%20economies%20of%20scale.) \
 I have a continued interest in Cloud Computing as I think this is the future of business IT operations. Though for my story of how I got into Cloud Computing, it's a bit weird. Microsoft, along with a local, national IT organization in my country hosted a competition for Microsoft Azure and 365 Certifications. The certifications would be completely free granted we pass the exam proper. The highest to score in the exams gets a prize. It was called the Cloud Skills Challenge. I placed 3rd in the Azure examinations competing with different students from my province. 
 
+### :medal_sports: My certificates
+<a href="https://nelliosis.github.io/Portfolio/src/Azure%20Fundamentals.png">
+   <img src="https://github.com/Nelliosis/Portfolio/blob/main/src/AZ900.png" width="150" height="150"  href="https://nelliosis.github.io/Portfolio/src/Azure%20Fundamentals.png" />
+</a>
+<a href="https://nelliosis.github.io/Portfolio/src/365%20Fundamentals.png">
+   <img src="https://github.com/Nelliosis/Portfolio/blob/main/src/MS900.png" width="150" height="150"  href="https://nelliosis.github.io/Portfolio/src/Azure%20Fundamentals.png" />
+</a>
+<a href="https://nelliosis.github.io/Portfolio/src/MTA-Certificate.png">
+   <img src="https://github.com/Nelliosis/Portfolio/blob/main/src/MTA.png" width="150" height="150"  href="https://nelliosis.github.io/Portfolio/src/Azure%20Fundamentals.png" />
+</a>
+<a href="https://nelliosis.github.io/Portfolio/src/VEP.png">
+   <img src="https://github.com/Nelliosis/Portfolio/blob/main/src/ENG-VEP.png" width="150" height="150"  href="https://nelliosis.github.io/Portfolio/src/Azure%20Fundamentals.png" />
+</a>
+<a href="https://nelliosis.github.io/Portfolio/src/CS50x.png">
+   <img src="https://github.com/Nelliosis/Portfolio/blob/main/src/CS50.png?raw=true" width="150" height="150"  href="https://nelliosis.github.io/Portfolio/src/Azure%20Fundamentals.png" />
+</a>
 
 
 ### :bow: Special thanks to the following resources
@@ -77,5 +78,7 @@ I have a continued interest in Cloud Computing as I think this is the future of 
 <!-- Markdown for Shields -->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white
 [linkedin-link]: https://linkedin.com/in/jcapawing
-[web-shield]: https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white
+[web-shield]: https://img.shields.io/badge/Portfolio-3b5998?style=flat-square&logo=google-chrome&logoColor=white
 [web-link]: https://nelliosis.github.io/Portfolio/
+[amagi-shield]: https://img.shields.io/badge/Amagi-3b5998?style=flat-square&logo=google-chrome&logoColor=white
+[amagi-link]: https://amagi.io/
