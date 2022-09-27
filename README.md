@@ -1,5 +1,5 @@
 ### :wave: Greetings, 
-I'm Jun. An undergraduate of Computer Science, and a Junior Software Developer in Training at AMAGI Technologies. I'm interested in making lives easier through code and efficient systems. I am an aspiring developer. I am currently learning and soaking in the technologies relevant towards this goal. My hobbies include lots of YouTube, occasional gaming, deep conversations, and reading about different philosophies. As for my work ethic, it changes over the years but I think I've settled for one that encapsulates my philosophy in work and in life: Palma non Sine Pulvere. Dare to try, there is no reward without effort. 
+I'm Jun. An undergraduate of Computer Science, and a Junior Software Developer at AMAGI Technologies. I'm interested in making lives easier through code and efficient systems. I am a developer aspiring to be better everyday. I am currently learning and soaking in the technologies relevant towards this goal. My hobbies include lots of YouTube, occasional gaming, deep conversations, and reading about different philosophies. As for my work ethic, it changed over the years but I think I've settled for one that encapsulates my philosophy in work and in life: Palma non Sine Pulvere. Dare to try, there is no reward without effort. 
 
 [![LinkedIn][linkedin-shield]][linkedin-link]
 [![Website][web-shield]][web-link]
